@@ -14,8 +14,8 @@ redirect_from:
 
 Publication
 ------------------------------
-🤖**RoleScan: Enhancing Social Bot Detection Using Social Role Vector.**
-Wen Wen, Min Gao, Qingyuan Gong, Xin Wang, Yang Chen. 
+🤖**RoleScan: Enhancing Social Bot Detection Using Social Role Vector.**<br>
+Wen Wen, Min Gao, Qingyuan Gong, Xin Wang, Yang Chen.<br>
 _19th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW 2024), 2024._
 
 
