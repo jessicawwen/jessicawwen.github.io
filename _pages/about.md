@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👩‍💻I'm currently a graduate student at Fudan Univeristy, working under the guidance of [Prof. Yang Chen](https://chenyang03.wordpress.com/) in the [Fudan DataNet Lab](https://fudan-datanet.mysxl.cn/).
+👩‍💻I'm currently a graduate student at Fudan Univeristy, working under the guidance of [Prof. Yang Chen](https://chenyang03.wordpress.com/) in the [Fudan DataNET Lab](https://fudan-datanet.mysxl.cn/).
 
 🔮My recent research interest lies at the intersection of social networks and natural language processing.
 
