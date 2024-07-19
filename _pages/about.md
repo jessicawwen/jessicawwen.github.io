@@ -14,7 +14,9 @@ redirect_from:
 
 Publication
 ------------------------------
-🤖RoleScan: Enhancing Social Bot Detection Using Social Role Vector. 19th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW 2024).
+🤖**RoleScan: Enhancing Social Bot Detection Using Social Role Vector.**
+Wen Wen, Min Gao, Qingyuan Gong, Xin Wang, Yang Chen. 
+_19th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW 2024), 2024._
 
 
 
