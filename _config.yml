@@ -21,7 +21,7 @@ repository               : "jessicawwen/jessicawwen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wenwen_pic.png"
+  avatar           : "wenwen_profile.png"
   name             : "Wen Wen"
   pronouns         : # example: "she/her"  
   bio              : "Social Network Computing"
